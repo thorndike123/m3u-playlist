@@ -22,7 +22,7 @@
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/sneh-jio-tv.m3u">Sneh jio tv</a>  <br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/All_Indian_Mix_SkyMedia_Playlist.m3u">Mix Skymedia v1.0</a>  <br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Indian_Movies_SkyMedia_Playlist.m3u">Indian Movies Skymedia</a>  <br> 
+• 3rd Link : <a href="https://github.com/OneFusionPlus/m3u-playlist/raw/main/Indian%20Playlist/Indian_Movies_Playlist.m3u">Indian Movies New</a>  <br> 
 • 4th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/sneh-hindi-movies.m3u">Sneh Old Hindi Movies</a>  <br> 
 • 5th Link : <a href="https://iptv-org.github.io/iptv/countries/in.m3u">IPTV-ORG INDIA</a>  <br><br> 
 

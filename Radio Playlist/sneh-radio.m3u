@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
+#EXTINF:-1 tvg-id="Oshekher" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/Oshekher
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil",Hello FM 106.4
 https://stream.zenolive.com/4g65yz9gg0quv.aac
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil",Ayyapa Songs Radio

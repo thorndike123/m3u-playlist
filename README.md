@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/85tRt6W/snehiptv.gif" width="350" height="220"></p>
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bzf5sA4YG0qr27BO9864EAzo3XGg2NX0Tg&usqp=CAU" width="350" height="220"></p>
 <h1 align="center"> ✯ IPTV v1.0 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>

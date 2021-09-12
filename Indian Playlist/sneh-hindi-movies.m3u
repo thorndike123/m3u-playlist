@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
+#EXTINF:-1 tvg-id="Oshekher" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/Oshekher
 
 #EXTINF:-1 tvg-id="Sneh Movies" tvg-logo="snehmovies.png" group-title="Movies : 100 Days Of Love (2015)",Play
 http://watchindia.net:8880/movie/33253/72963/1131.mkv
